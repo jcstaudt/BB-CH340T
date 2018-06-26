@@ -349,4 +349,13 @@ Wire Notes Line
 	8750 3350 8750 4300
 Text Notes 6450 4600 0    60   ~ 0
 Important NOTE: Some older versions of KiCAD\nuse even older libraries of diodes with reversed pins assigment!\nD1 is connected K to U1.p3, A to R1
+NoConn ~ 6350 4050
+NoConn ~ 6350 4150
+NoConn ~ 6350 4250
+NoConn ~ 6350 4350
+NoConn ~ 6350 4450
+NoConn ~ 6350 4550
+NoConn ~ 6350 4750
+NoConn ~ 6350 4850
+NoConn ~ 3350 4550
 $EndSCHEMATC
